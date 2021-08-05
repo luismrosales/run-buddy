@@ -144,12 +144,14 @@ section {
 
 .section-title{
     font-size: 55px;
-    color: #024e76;
     margin-bottom: 35px;
     padding: 0 100px 20px 100px;
     display: inline-block;
-    border: 3px solid #39a6b2;
+    border: 3px solid ;
+    color: #024e76;
 }
+
+
 
 .primary-border {
     border: #fce138;
@@ -174,13 +176,16 @@ section {
     margin-top: 10px;
 }
 
+
 .steps span {
     font-size: 38px;
 }
 
 .trainers {
     text-align: center;
+    
 }
+
 
 .trainer {
     width: 900px;
@@ -223,4 +228,55 @@ section {
 .trainer-bio p {
     font-size: 17px;
     line-height: 1.3;
+}
+
+.contact {
+    text-align: center;
+    background: #024e76;
+}
+
+
+.contact h2 {
+    color: #fce138;
+    text-align: center;
+}
+
+.contact-info iframe{
+    width: 400px;
+    height: 400px;
+    padding: 35px;
+    float: left;
+    text-align: center;
+
+    position: relative;
+    bottom: 55px;
+    left: 12%;
+    margin-right: 180px;
+    
+    
+}
+
+.contact-info1 {
+    color: white;
+}
+
+.contact-info1 h3{
+    color: #fce138;
+    font-size: 32px;
+    text-align: left;
+}
+
+.contact-info1 p, .contact-info1 address{
+    margin: 20px 0;
+    line-height:1.5;
+    font-size: 20px;
+    font-style: normal;
+    display: block;
+    text-align: left;
+    
+   
+}
+
+.contact-info1 a{
+    color: #fce138;
 }
