@@ -280,3 +280,19 @@ section {
 .contact-info1 a{
     color: #fce138;
 }
+
+.hero {
+    margin: 20px;
+    font-size: 20px;
+    background-color: white;
+    color: blue;
+    
+}
+
+.secondary-content{
+    background:black;
+    color: red;
+}
+
+
+
