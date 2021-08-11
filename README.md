@@ -14,3 +14,6 @@ https//:lernantino.github.io/run-buddy/
 made with ❤️ by Luis Rosales
 
 ### ©️2019 Run Buddy, Inc 
+
+## Live page link
+https://luismrosales.github.io/run-buddy/
